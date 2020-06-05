@@ -4,9 +4,7 @@ This sub-module contains the implementation of BandChain's Oracle Binary Interfa
 
 ## Supported Programming Languages
 
-| Language                        | Status         |
-| ------------------------------- | -------------- |
-| [`Python 3 🐍`](pyobi)          | ✅ Completed   |
-| [`Golang 🐀`](../chain/pkg/obi) | ✅ Completed   |
-| [`Rust 🦀`](../owasm/obi)       | ⚙️ In Progress |
-| [`JavaScript 🌐`](obi.js)       | 🤔 Not Started |
+| Language                  | Status         |
+| ------------------------- | -------------- |
+| [`Python 3 🐍`](pyobi)    | ✅ Completed   |
+| [`Rust 🦀`](../owasm/obi) | ⚙️ In Progress |
